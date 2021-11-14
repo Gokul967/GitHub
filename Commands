@@ -1,0 +1,17 @@
+git pull - to update local repo(laptop/VM) from remote repo(github repor like Kanagaraj5463)
+
+git clone - to clone whole repository 
+sample - git clone git@github.com:Kanagaraj5463/Terraform.git
+
+git status - to check the status what is changed 
+
+git add . - to add the changes 
+
+git commit -m "what you changed describe here" - to add the changes to local repository(laptop/VM)
+
+git push - to update remote repo with the contents in local repo
+
+git push master(branch) - to update remote repo with the contents in local repo to specific branch 
+
+
+git stash - in line 
