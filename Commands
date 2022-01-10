@@ -16,3 +16,5 @@ git push master(branch) - to update remote repo with the contents in local repo 
 
 
 git stash - in line 
+
+rr
